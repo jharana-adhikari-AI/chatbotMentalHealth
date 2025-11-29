@@ -1,5 +1,5 @@
 # AI for emotional wellbeing: Designing an NLP-Based mental health chatbot	
-### Team: Mental Health Mavericks
+### Team: Mental Health Mavericks (Jharana, Raemil, Sonal, Uma and Aparna)
 
 This project was developed as part of the research initiative "Leveraging Open Data Analytics and Machine Learning to Improve Mental Health Research and Innovation" during the 2024 Inter-University Big Data Challenge, organized by Stem Fellowship.
 https://journal.stemfellowship.org/doi/10.17975/sfj-2024-010
